@@ -3,7 +3,7 @@ import { FaSearch } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Container maxW="container.xl">
+    <Container maxW="container.xl" bg="#fff1e5">
       {/* Header */}
       <Flex as="header" py={4} justifyContent="space-between" alignItems="center" borderBottom="1px solid #e2e8f0">
         <Box>
